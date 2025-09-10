@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+asyncpg
+alembic
+psycopg2-binary
+python-dotenv
+passlib[bcrypt]
+pyjwt
+pydantic
+pydantic-settings
+geoalchemy2
+geojson
+sqlalchemy_utils
